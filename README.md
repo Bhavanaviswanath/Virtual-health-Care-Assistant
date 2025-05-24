@@ -49,9 +49,10 @@ API will be available at: http://127.0.0.1:8000/
 
 ## Sample Output Pictures
 
-![image](https://github.com/GudepuRakshitha/Virtual_health-care-system/blob/7d40591bf02beb654b8953dd3bf6915035142203/Screenshot%202025-03-30%20221422.png)
+![VH 1](https://raw.githubusercontent.com/Bhavanaviswanath/Virtual-health-Care-Assistant/4d50bd9dcc0eaea0f15ab7958b5521ef9cd8901a/VH1.png)
 
-![image](https://github.com/GudepuRakshitha/Virtual_health-care-system/blob/7d40591bf02beb654b8953dd3bf6915035142203/Screenshot%202025-03-30%20221813.png)
+![VH 2](https://raw.githubusercontent.com/Bhavanaviswanath/Virtual-health-Care-Assistant/4d50bd9dcc0eaea0f15ab7958b5521ef9cd8901a/VH2.png)
+
 
 ##  👥 Author
 Natuva Bhavana 
